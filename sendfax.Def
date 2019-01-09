@@ -1,0 +1,5 @@
+LIBRARY SendFax
+DESCRIPTION 'Send Fax Driver'
+EXPORTS  
+StartFaxService @1 
+SendFax @2
